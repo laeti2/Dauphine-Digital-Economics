@@ -18,4 +18,17 @@ window.onload = function(){
 	function HexToWei(hexBalance){
 		return parseInt(hexBalance, 16);
 	}
+	
+	 function NewTab(){
+            window.open(https://www.linkedin.com);
+    }
+    document.getElementById("laetiBtn").onclick = NewTab;
+               
 };
+	
+
+
+
+
+
+
